@@ -1,7 +1,5 @@
 .webcam-wrapper {
-  display: inline-block;
-  position: relative;
-  line-height: 0;
+  display: none;
 
   video.mirrored {
     transform: scale(-1, 1);
